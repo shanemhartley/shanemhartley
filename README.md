@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Shane - Nice to meet you! 👋
 
 🔭 I’m currently working on writing amazing PowerShell scripts!
 
