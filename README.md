@@ -5,9 +5,11 @@
 👷 I’m currently building amazing PowerShell scripts! <br>
 
 📫 How to reach me: **hartley.shane@outlook.com**
+<br>
 
 ### 😎 😎 😎 Scripting languages and Tools I work with:😎 😎 😎 <br>
 PowerShell, Hyper-V, O365/Azure
+<br>
 
 ### 🔥🔥🔥 Connect with me! 🔥🔥🔥
 https://linkedin.com/in/shanemhartley
