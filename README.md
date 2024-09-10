@@ -2,9 +2,9 @@
  
 👀 I’m making new connections on GitHub! Let's connect! <br>
 
-👷 I’m currently building amazing PowerShell scripts! <br>
+👷 I’m currently building amazing scripts! <br>
 
-📫 How to reach me: **hartley.shane@outlook.com**
+📫 How to reach me: **shane.m.hartley@outlook.com**
 <br>
 
 ### 😎 😎 😎 Scripting languages and Tools I work with:😎 😎 😎 <br>
