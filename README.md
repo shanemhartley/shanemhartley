@@ -8,7 +8,7 @@
 <br>
 
 ### 😎 😎 😎 Scripting languages and Tools I work with:😎 😎 😎 <br>
-PowerShell, Hyper-V, O365/Azure, Bash
+PowerShell, Hyper-V, Bash
 <br>
 
 ### 🔥🔥🔥 Connect with me! 🔥🔥🔥
