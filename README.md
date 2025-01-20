@@ -8,7 +8,7 @@
 <br>
 
 ### 😎 😎 😎 Automation Tools I work with:😎 😎 😎 <br>
-Ansibl, Bash, PowerShell
+Ansible, Bash, PowerShell
 <br>
 
 ### 🔥🔥🔥 Connect with me! 🔥🔥🔥
