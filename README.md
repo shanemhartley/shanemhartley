@@ -7,7 +7,7 @@
 📫 Let's connect: **shane.m.hartley@outlook.com**
 <br>
 
-### 😎 Automation Tools I work with: <br>
+😎 Automation Tools I work with: <br>
 Ansible, Bash, PowerShell, Python
 <br>
 
