@@ -4,12 +4,12 @@
 
 👷 I’m currently building awesome scripts! <br>
 
-📫 Let's connect: **shane.m.hartley@outlook.com**
-<br>
-
 😎 Automation Tools I work with: <br>
-Ansible, Bash, PowerShell, Python
-<br>
+  Ansible <br>
+  Bash <br>
+  PowerShell <br>
+  Python <br>
 
-### 🔥Connect with me!
+### 🔥Let's connect!
 https://linkedin.com/in/shanemhartley
+shane.m.hartley@outlook.com
