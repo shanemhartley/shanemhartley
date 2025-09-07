@@ -11,5 +11,5 @@
   Python <br>
 
 ### 🔥Let's connect!
-https://linkedin.com/in/shanemhartley
+https://linkedin.com/in/shanemhartley <br>
 shane.m.hartley@outlook.com
