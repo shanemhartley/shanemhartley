@@ -1,6 +1,6 @@
  ###  👋 Hi! I'm Shane!
 
-👍 I'm a Results-oriented and automation-focused IT professional with a strong background in process improvement and systems management 
+👍 I'm a Results-oriented and automation-focused IT professional 
 
 👀 I’m making new connections on GitHub! Let's connect! <br>
 
