@@ -1,4 +1,4 @@
- ###  👋 Hi! I'm Shane!
+ ###  👋 Hi - I'm Shane!
 
 👍 I'm a Results-oriented and automation-focused IT professional!
 
