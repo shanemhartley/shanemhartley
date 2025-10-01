@@ -7,5 +7,5 @@
 👷 I’m currently building awesome stuff! <br>
 
 ### 🔥 Let's connect!
-LinkedIn -> https://linkedin.com/in/shanemhartley <br>
 Email -> shane.m.hartley@outlook.com
+LinkedIn -> https://linkedin.com/in/shanemhartley <br>
